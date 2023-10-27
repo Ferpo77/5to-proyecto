@@ -1,0 +1,8 @@
+.boton-amarillo{
+    @include boton($amarillo);
+    display: block;
+}
+
+.boton-verde{
+    @include boton($verde);
+}
